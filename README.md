@@ -21,7 +21,7 @@ August 15, 2025
 **Question:** How many patients have each cancer type?  
 **Purpose:** Understand which cancer types are most common, which informs prevalence and sampling considerations.
 ![Percentage of Patients by Cancer Type](cancer_type_percent.png)
-
+![Number of Stage by Cancer Type](Number_of_Stage_by_Cancer_type.png)
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
