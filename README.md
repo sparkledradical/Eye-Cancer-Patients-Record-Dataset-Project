@@ -20,7 +20,7 @@ August 15, 2025
 ## 3. Disease-Specific Counts
 **Question:** How many patients have each cancer type?  
 **Purpose:** Understand which cancer types are most common, which informs prevalence and sampling considerations.
-![Percentage of Patients by Cancer Type](cancer_type_percent.png)
+<img src="Data Visualization/cancer_type_percent.png" width="400">
 ![Number of Stage by Cancer Type](Number_of_Stage_by_Cancer_type.png)
 ---
 
