@@ -30,6 +30,7 @@ August 15, 2025
 <img src="number_stage_by_cancer_type.png" width="400"/>
 </p>
 
+<img src="Cancer_Type_by_Stage_IV_table.png" width="400">
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
