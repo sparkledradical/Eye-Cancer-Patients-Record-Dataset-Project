@@ -15,8 +15,10 @@ August 15, 2025
 
 **Purpose:** Describe the population. Helps detect imbalances (like more males than females) which could affect analysis.
 
-<img src="age_distribution_patients.png" width="400">
-
+<p float="left">
+<img src="age_distribution_patients.png" width="400"/>
+<img src="ge_distribution_patients_part2.png" width="400"/>
+</p>
 ---
 
 ## 3. Disease-Specific Counts
