@@ -15,7 +15,7 @@ August 15, 2025
 
 **Purpose:** Describe the population. Helps detect imbalances (like more males than females) which could affect analysis.
 
-<img src="age_distribution_patients.png" width="300">
+<img src="age_distribution_patients.png" width="400">
 
 ---
 
@@ -23,8 +23,10 @@ August 15, 2025
 **Question:** How many patients have each cancer type?  
 **Purpose:** Understand which cancer types are most common, which informs prevalence and sampling considerations.
 
-<img src="cancer_type_percent.png" width="300">
-<img src="number_stage_by_cancer_type.png" width="300">
+<p float="left">
+<img src="cancer_type_percent.png" width="400"/>
+<img src="number_stage_by_cancer_type.png" width="400"/>
+</p>
 
 ---
 
