@@ -15,14 +15,15 @@ August 15, 2025
 
 **Purpose:** Describe the population. Helps detect imbalances (like more males than females) which could affect analysis.
 
+<img src="age_distribution_patients.png" width="300">
 ---
 
 ## 3. Disease-Specific Counts
 **Question:** How many patients have each cancer type?  
 **Purpose:** Understand which cancer types are most common, which informs prevalence and sampling considerations.
 
-<img src="Data Visualization/cancer_type_percent.png" width="300">
-![Number of Stage by Cancer Type](Number_of_Stage_by_Cancer_type.png)
+<img src="cancer_type_percent.png" width="300">
+<img src="number_stage_by_cancer_type.png" width="300">
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
