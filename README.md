@@ -30,9 +30,10 @@ August 15, 2025
 </p>
 ---
 
-## 3. Disease-Specific Counts
+## 3. Cancer Stage-Specific Counts
 **Question:** 
-**Purpose:** Understand which cancer types are most common, which informs prevalence and sampling considerations.
+- For each cancer type, how many patients are diagnosed at Stage IV?
+**Purpose:** To identify which cancer types are most frequently diagnosed at Stage IV. This helps focus the analysis on advanced-stage cases, informs prevalence, and guides sampling or treatment considerations.
 
 <p float="left">
 <img src="Cancer_Type_by_Stage_IV_table.png" width="400"/>
