@@ -8,7 +8,8 @@ August 15, 2025
 - How many patients have each cancer type?
 **Purpose:** Understand the dataset size, which is fundamental for context.
 
-![Total Patients](https://img.shields.io/badge/TOTAL%20PATIENTS-5000-ff33aa?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA)
+[![Total Patients](https://img.shields.io/badge/TOTAL%20PATIENTS-5000-ff33aa?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA)](https://img.shields.io/badge/TOTAL%20PATIENTS-5000-ff33aa?style=for-the-badge
+)
 
 <img src="cancer_type_percent.png" width="400">
 ---
