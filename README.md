@@ -10,6 +10,8 @@ August 15, 2025
 
 **Total Patients Recorded in This Dataset: 5000**
 
+<p float="left">
+<img src="Cancer_Type_Counts_Table.png" width="400"/>
 <img src="cancer_type_percent.png" width="400">
 ---
 
