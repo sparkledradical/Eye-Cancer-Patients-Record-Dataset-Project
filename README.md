@@ -57,7 +57,7 @@ August 15, 2025
 
 **Purpose:** Explore relationships between patient features (age, cancer type) and outcomes (survival time).
 
-<img src="averagesurvivaltime.png" width="600">
+<img src="survival_time_distribution.png" width="600">
 ---
 
 ## 5. Cross-Tab / Group Comparisons
