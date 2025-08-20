@@ -3,9 +3,12 @@
 August 15, 2025
 
 ## 1. Dataset Overview / Size
-**Question:** How many patients are in the dataset?  
+**Questions:** 
+- How many patients are in the dataset?
+- How many patients have each cancer type?
 **Purpose:** Understand the dataset size, which is fundamental for context.
 
+<img src="cancer_type_percent.png" width="400">
 ---
 
 ## 2. Demographic Distribution
@@ -28,16 +31,13 @@ August 15, 2025
 ---
 
 ## 3. Disease-Specific Counts
-**Question:** How many patients have each cancer type?  
+**Question:** 
 **Purpose:** Understand which cancer types are most common, which informs prevalence and sampling considerations.
 
 <p float="left">
-<img src="cancer_type_percent.png" width="400"/>
+<img src="Cancer_Type_by_Stage_IV_table.png" width="400"/>
 <img src="number_stage_by_cancer_type.png" width="400"/>
 </p>
-
-<img src="Cancer_Type_by_Stage_IV_table.png" width="400">
-
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
