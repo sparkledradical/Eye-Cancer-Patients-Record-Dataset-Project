@@ -11,7 +11,8 @@ August 15, 2025
 ## 2. Demographic Distribution
 **Questions:**  
 - What is the distribution of age, gender, and other demographics?  
-- How many female, male, and other in the dataset?  
+- How many female, male, and other in the dataset?
+- 
 
 **Purpose:** Describe the population. Helps detect imbalances (like more males than females) which could affect analysis.
 
@@ -20,6 +21,9 @@ August 15, 2025
 <img src="age_distribution_patients_part2.png" width="400"/>
 </p>
 
+<img src="age_group_patients.png" width="400"/>
+<img src="distribution_cancertype_and_agegroups_patients.png" width="400"/>
+</p>
 ---
 
 ## 3. Disease-Specific Counts
