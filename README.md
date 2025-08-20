@@ -21,6 +21,7 @@ August 15, 2025
 <img src="age_distribution_patients_part2.png" width="400"/>
 </p>
 
+<p float="left">
 <img src="age_group_patients.png" width="400"/>
 <img src="distribution_cancertype_and_agegroups_patients.png" width="400"/>
 </p>
