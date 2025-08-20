@@ -33,6 +33,8 @@ August 15, 2025
 ## 3. Cancer Stage-Specific Counts
 **Question:** 
 - For each cancer type, how many patients are diagnosed at Stage IV?
+- 
+
 **Purpose:** To identify which cancer types are most frequently diagnosed at Stage IV. This helps focus the analysis on advanced-stage cases, informs prevalence, and guides sampling or treatment considerations.
 
 <p float="left">
