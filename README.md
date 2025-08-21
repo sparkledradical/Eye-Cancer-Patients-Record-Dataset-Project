@@ -73,10 +73,7 @@ This project bridges my scientific research background with data analytics. By a
 <img src="number_stage_by_cancer_type.png" width="400"/>
 </p>
 
-<img src="Stage_IV_by_Age_Group.png" width="400"/>
-<img src="cancerstage_distribution_byagroupchart.png" width="400"/>
-</p>
-
+<img src="cancerstage_distribution_byagroupchart.png" width="400">
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
