@@ -25,6 +25,7 @@ This project bridges my scientific research background with data analytics. By a
 ## 1. Dataset Overview / Size
 **Questions:** 
 - How many patients are in the dataset?
+- How many female, male, and other in the dataset?
 - How many patients have each cancer type?
 
 
@@ -35,12 +36,16 @@ This project bridges my scientific research background with data analytics. By a
 <p float="left">
 <img src="Cancer_Type_Counts_Table.png" width="400"/>
 <img src="cancer_type_percent.png" width="400">
+
+<p float="left">
+<img src="Patients_by_Gender.png" width="400"/>
+
 ---
 
 ## 2. Demographic Distribution
 **Questions:**  
 - What is the distribution of age, gender, and other demographics?  
-- How many female, male, and other in the dataset?
+- 
 - 
 
 **Purpose:** Describe the population. Helps detect imbalances (like more males than females) which could affect analysis.
