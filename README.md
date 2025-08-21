@@ -26,6 +26,8 @@ This project bridges my scientific research background with data analytics. By a
 **Questions:** 
 - How many patients are in the dataset?
 - How many patients have each cancer type?
+
+
 **Purpose:** Understand the dataset size, which is fundamental for context.
 
 **Total Patients Recorded in This Dataset: 5000**
