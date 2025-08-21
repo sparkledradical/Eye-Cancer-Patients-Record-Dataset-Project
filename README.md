@@ -3,7 +3,7 @@
 ## Project Summary
 The goal of this project is to showcase my data analysis skills using Python. I chose the Eye Cancer Patients Record Dataset from Kaggle because of my background in cancer biology research, which inspired me to explore data-driven insights in this field.
 
-The dataset is already preprocessed and cleaned, so the focus of this project is on analysis rather than data preparation. I removed the `Genetic Markers` column because it contained more than half missing values, and I wanted to avoid its impact on the overall statistics and analysis. Using Jupyter Notebook and Python, I performed exploratory data analysis (EDA), visualizations, and group comparisons to uncover patterns and relationships within the data.
+The dataset is already preprocessed and cleaned, so the focus of this project is on analysis rather than data preparation. The Genetic Markers column was removed because it contained over 50% missing values, which could have impacted the overall statistics and analysis. Using Jupyter Notebook and Python, I performed exploratory data analysis (EDA), visualizations, and group comparisons to uncover patterns and relationships within the data.
 
 The primary aim is to connect the “dots” in the dataset and generate insights that could inform future scientific research. This project demonstrates both my technical proficiency in Python and my ability to translate raw data into meaningful observations.
 
