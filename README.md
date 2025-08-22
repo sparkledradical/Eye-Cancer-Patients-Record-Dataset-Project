@@ -89,6 +89,26 @@ This project bridges my scientific research background with data analytics. By a
 <img src="observedvsexpected_counts_perAgeGroup.png" width="1000"/><br>
 <em>Figure 2. Observed vs expected patient counts across age groups. The chart highlights how the actual distribution deviates from an equal distribution and helps answer the question raised in the Discovery section.</em>
 
+# Chi-Square Test
+
+**Results:**  
+- Chi² statistic = **1956.64**  
+- p-value = **0.0**
+
+**Interpretation:**  
+- The Chi² statistic measures how far the observed distribution (patient counts) is from the expected distribution (equal across age groups). Larger values indicate bigger differences.  
+- Rule of thumb:  
+  - If **p < 0.05** → groups are **not equally distributed**  
+  - If **p ≥ 0.05** → cannot reject equal distribution  
+
+**Conclusion:**  
+Since the p-value is effectively zero, we reject the null hypothesis that patients are equally distributed across age groups.  
+The dataset’s age distribution is **statistically significantly different** from an equal distribution.  
+
+**Insight for visualization:**  
+The senior age group is much larger than expected, while the younger groups are clearly underrepresented.  
+This is why Figure 2 was created — to visually compare **observed vs expected counts** across age groups and highlight this imbalance.
+
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
