@@ -89,7 +89,7 @@ This project bridges my scientific research background with data analytics. By a
 **Chi-Square Test (Observed vs Expected Counts):**  
 - **Chi² statistic:** 1956.64  
 - **p-value:** 0.0  
-- **Interpretation:** The observed age distribution deviates significantly from an equal distribution; seniors are overrepresented, while younger groups are underrepresented.
+- **Interpretation:** The observed age distribution deviates significantly from an equal distribution, with seniors overrepresented and younger groups underrepresented.
 - **Purpose:** To answer the question raised in the Discovery section.
 
 <img src="observedvsexpected_counts_perAgeGroup.png" width="1000"/><br>
