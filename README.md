@@ -33,7 +33,7 @@ This project bridges my scientific research background with data analytics. By a
 
 **Total Patients Recorded in This Dataset: 5000**
 
-<p float="left">
+
   <img src="Cancer_Type_Counts_Table.png" width="400"/><br>
   <em>Figure 1. Table showing the count of patients by cancer type.</em>
 </p>
@@ -78,17 +78,12 @@ This project bridges my scientific research background with data analytics. By a
 **Question:** 
 - For each cancer type, how many patients are diagnosed at Stage I, II, III, and IV?
 
+**Purpose:** To identify which cancer types are most frequently diagnosed at each stage across age groups, building on Step 2 above. This helps focus the analysis on older-age cases, informs prevalence, and guides sampling or treatment considerations.
 
-**Purpose:** To identify which cancer types are most frequently diagnosed at Stage IV. This helps focus the analysis on advanced-stage cases, informs prevalence, and guides sampling or treatment considerations.
-
-**Discovery:** I have analyzed each stage and its cancer type and all 4 stages showed cancer types typically high in senior group.
-
-<p float="left">
-<img src="Cancer_Type_by_Stage_IV_table.png" width="400"/>
-<img src="number_stage_by_cancer_type.png" width="400"/>
-</p>
+**Discovery:** After analyzing each stage by cancer type, I found that all four stages show higher counts in the senior age group. I created a chart summarizing all stages across all age groups, which confirms that the senior group consistently has the highest counts for most cancer types.
 
 <img src="cancerstage_distribution_byagroupchart.png" width="400">
+
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
