@@ -76,11 +76,11 @@ This project bridges my scientific research background with data analytics. By a
 
 ## 3. Cancer Stage-Specific Counts
 **Question:** 
-- For each cancer type, how many patients are diagnosed at Stage I, II, III, and IV?
+- How many patients are diagnosed at Stage I, II, III, and IV within each age group?
 
-**Purpose:** To identify which cancer types are most frequently diagnosed at each stage across age groups, building on Step 2 above. This helps focus the analysis on older-age cases, informs prevalence, and guides sampling or treatment considerations.
+**Purpose:** To identify the distribution of cancer stages across age groups, building on Step 2 above. This helps focus the analysis on older-age cases, informs prevalence, and guides sampling or treatment considerations.
 
-**Discovery:** After analyzing each stage by cancer type, I found that all four stages show higher counts in the senior age group. I created a chart summarizing all stages across all age groups, which confirms that the senior group consistently has the highest counts for most cancer types.
+**Discovery:** After analyzing each stage across age groups, I found that all four stages have higher counts in the senior age group. I created a chart summarizing all stages across all age groups, which confirms that the senior group consistently has the highest counts.
 
   <img src="cancerstage_distribution_byagroupchart.png" width="1000"/><br>
   <em>Figure 1. This chart shows all four stages across different age groups, with the senior group having the highest counts in all stages.</em>
