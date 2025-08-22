@@ -86,6 +86,9 @@ This project bridges my scientific research background with data analytics. By a
   <em>Figure 1. This chart shows all four stages across different age groups, with the senior group having the highest counts in all stages.</em>
 </p>
 
+<img src="observedvsexpected_counts_perAgeGroup.png" width="1000"/><br>
+<em>Figure 2. Observed vs expected patient counts across age groups. The chart highlights how the actual distribution deviates from an equal distribution and helps answer the question raised in the Discovery section.</em>
+
 ---
 
 ## 4. Survival Analysis / Outcome Exploration
