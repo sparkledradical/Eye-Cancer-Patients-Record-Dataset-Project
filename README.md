@@ -52,13 +52,13 @@ This project bridges my scientific research background with data analytics. By a
 
 ---
 
-## 2. Demographic Distribution
+## 2. Age Demographic Distribution
 **Questions:**  
-- What is the distribution of age, gender, and other demographics?  
-- 
-- 
+- What is the distribution of age demographics?  
 
-**Purpose:** Describe the population. Helps detect imbalances (like more males than females) which could affect analysis.
+**Purpose:** Describe the population based on age-related data. Helps identify patterns that could lead to discoveries.
+
+**Discovery:** Based on the charts below, I noticed a distinct pattern in the senior age group. I want to further analyze correlations involving the senior group across different attributes in the dataset.
 
 <p float="left">
 <img src="age_distribution_patients.png" width="400"/>
