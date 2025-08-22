@@ -62,6 +62,9 @@ This project bridges my scientific research background with data analytics. By a
 <img src="age_group_patients.png" width="400"/>
 <img src="distribution_cancertype_and_agegroups_patients.png" width="400"/>
 </p>
+
+<img src="age_group_vs_numberofpatients.png" width="400">
+
 ---
 
 ## 3. Cancer Stage-Specific Counts
