@@ -40,6 +40,9 @@ This project bridges my scientific research background with data analytics. By a
 <p float="left">
 <img src="Patients_by_Gender.png" width="400"/>
 
+<p float="left">
+<img src="Cancer_Type_Counts_Table.png" width="400">
+
 ---
 
 ## 2. Demographic Distribution
