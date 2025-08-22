@@ -82,7 +82,9 @@ This project bridges my scientific research background with data analytics. By a
 
 **Discovery:** After analyzing each stage by cancer type, I found that all four stages show higher counts in the senior age group. I created a chart summarizing all stages across all age groups, which confirms that the senior group consistently has the highest counts for most cancer types.
 
-<img src="cancerstage_distribution_byagroupchart.png" width="400">
+  <img src="cancerstage_distribution_byagroupchart.png" width="400"/><br>
+  <em>Figure 1. This chart shows all four stages across different age groups, with the senior group having the highest counts in all stages.</em>
+</p>
 
 ---
 
