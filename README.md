@@ -53,7 +53,7 @@ This project bridges my scientific research background with data analytics. By a
 ---
 
 ## 2. Age Demographic Distribution
-**Questions:**  
+**Question:**  
 - What is the distribution of age demographics?  
 
 **Purpose:** Describe the population based on age-related data. Helps identify patterns that could lead to discoveries.
@@ -76,10 +76,12 @@ This project bridges my scientific research background with data analytics. By a
 
 ## 3. Cancer Stage-Specific Counts
 **Question:** 
-- For each cancer type, how many patients are diagnosed at Stage IV?
-- 
+- For each cancer type, how many patients are diagnosed at Stage I, II, III, and IV?
+
 
 **Purpose:** To identify which cancer types are most frequently diagnosed at Stage IV. This helps focus the analysis on advanced-stage cases, informs prevalence, and guides sampling or treatment considerations.
+
+**Discovery:** I have analyzed each stage and its cancer type and all 4 stages showed cancer types typically high in senior group.
 
 <p float="left">
 <img src="Cancer_Type_by_Stage_IV_table.png" width="400"/>
