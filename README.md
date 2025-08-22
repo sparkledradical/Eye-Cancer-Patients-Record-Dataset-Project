@@ -9,7 +9,7 @@ The primary aim is to connect the “dots” in the dataset and generate insight
 
 ## Key Skills & Tools
 - **Languages & Tools:** Python, Jupyter Notebook, pandas, matplotlib, seaborn, numpy  
-- **Data Analysis Techniques:** EDA, descriptive statistics, group comparisons, cross-tabulations, data visualization  
+- **Data Analysis Techniques:** EDA, descriptive statistics, group comparisons, cross-tabulations, chi-square tests, data visualization  
 - **Focus:** Pattern recognition, relationships in patient demographics and cancer types, actionable insights  
 
 ## Project Objectives
