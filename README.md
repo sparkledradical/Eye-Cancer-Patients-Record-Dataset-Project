@@ -74,7 +74,7 @@ This project bridges my scientific research background with data analytics. By a
 
 ---
 
-## 3. Cancer Stage-Specific Counts
+## 3. Cancer Stage-Specific Counts and Equal Distribution Check
 **Question:** 
 - How many patients are diagnosed at Stage I, II, III, and IV within each age group?
 
