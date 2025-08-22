@@ -80,7 +80,7 @@ This project bridges my scientific research background with data analytics. By a
 
 **Purpose:** To identify the distribution of cancer stages across age groups, building on Step 2 above. This helps focus the analysis on older-age cases, informs prevalence, and guides sampling or treatment considerations.
 
-**Discovery:** After analyzing each stage across age groups, I found that all four stages have higher counts in the senior age group. I created a chart summarizing all stages across all age groups, which confirms that the senior group consistently has the highest counts.
+**Discovery:** After analyzing each stage across age groups, I found that all four stages have higher counts in the senior age group. This is particularly interesting because it raises the question: is the senior group the highest simply due to having more patients overall, or are the stages truly more prevalent among seniors? I created a chart summarizing all stages across age groups to explore this pattern further.
 
   <img src="cancerstage_distribution_byagroupchart.png" width="1000"/><br>
   <em>Figure 1. This chart shows all four stages across different age groups, with the senior group having the highest counts in all stages.</em>
