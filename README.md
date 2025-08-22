@@ -34,11 +34,19 @@ This project bridges my scientific research background with data analytics. By a
 **Total Patients Recorded in This Dataset: 5000**
 
 <p float="left">
-<img src="Cancer_Type_Counts_Table.png" width="400"/>
-<img src="cancer_type_percent.png" width="400">
+  <img src="Cancer_Type_Counts_Table.png" width="400"/><br>
+  <em>Figure 1. Table showing the count of patients by cancer type.</em>
+</p>
 
 <p float="left">
-<img src="Patients_by_Gender.png" width="400"/>
+  <img src="cancer_type_percent.png" width="400"/><br>
+  <em>Figure 2. Percentage distribution of cancer types (derived from Figure 1).</em>
+</p>
+
+<p float="left">
+  <img src="Patients_by_Gender.png" width="400"/><br>
+  <em>Figure 3. Distribution of patients by gender in the dataset.</em>
+</p>
 
 ---
 
